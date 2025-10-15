@@ -34,7 +34,7 @@ return array(
 	),
 	'http' => array(
 		'run' => false,
-		'endpoint' => 'localhost/http_auth',
+		'endpoint' => 'http://localhost/http_auth',
 		'hashAlgo' => false, // or 'md5', 'sha1', etc.
 		'accessKey' => 'your_access_key',
 		'user' => 'test',//valid username/password combination
